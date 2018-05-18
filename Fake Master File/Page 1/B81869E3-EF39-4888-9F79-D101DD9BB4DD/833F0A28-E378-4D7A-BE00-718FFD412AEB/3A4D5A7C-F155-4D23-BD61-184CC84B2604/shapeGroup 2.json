@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A5B0A17C-1AE3-473B-8068-5F098E455FD0",
+  "do_objectID": "3A4D5A7C-F155-4D23-BD61-184CC84B2604",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 68.92484375,
-    "width": 36.16172435897437,
-    "x": 150.5058311965812,
-    "y": 68.037578125
+    "height": 78.21510742187499,
+    "width": 24.57819174757282,
+    "x": 33.08930825242718,
+    "y": 126.784892578125
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "BF708AC5-2470-40EB-B4B6-7F2FE224D8C5"
+      "id": "5E7A1D01-5667-4012-8A1B-07E8AEB0B551"
     }
   ],
   "name": "Shape",
@@ -55,8 +55,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5686274509803921,
-          "green": 0.8705882352941177,
+          "blue": 0.2352941176470588,
+          "green": 0.5294117647058824,
           "red": 1
         },
         "fillType": 0,
