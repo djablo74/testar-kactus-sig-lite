@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 766,
+    "x": 706,
     "y": 101
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,6 +42,18 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "28822561-02E3-4BD8-854A-1BAF6D24A1CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F625566-1418-4BB7-A365-0AB4F174C2EB"
+    },
+    {
+      "class": "group",
+      "id": "26953E3C-F3C0-4BF0-868C-74C4725D4251"
+    }
   ],
   "name": "iPhone 8",
   "nameIsFixed": false,
