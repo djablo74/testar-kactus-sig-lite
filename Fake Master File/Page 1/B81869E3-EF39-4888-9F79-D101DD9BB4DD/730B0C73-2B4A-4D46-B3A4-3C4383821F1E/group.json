@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "730B0C73-2B4A-4D46-B3A4-3C4383821F1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 205,
+    "width": 187,
+    "x": 50,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "118019B7-589B-4018-A80A-7C6782A17360"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "150477E6-53E1-4C9F-9505-F4981914F8BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B216311C-0B9A-43F9-A823-A2D6007FAC03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5B0A17C-1AE3-473B-8068-5F098E455FD0"
+    }
+  ],
+  "name": "flaticon1526625725-svg",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
